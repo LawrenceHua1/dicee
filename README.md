@@ -8,9 +8,9 @@ This application works on all android devices past 2013.
 Synopsis:
 
 
-When downloaded and ran: 
+    When downloaded and ran: 
 
-- roll button is clicked it generates two random images of dice (1-6)
+    - roll button is clicked it generates two random images of dice (1-6)
 
 Applications:
 
